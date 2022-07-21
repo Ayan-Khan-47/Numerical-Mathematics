@@ -3,7 +3,7 @@ Hi, I am Mohd Ayan Khan.
 This repository is made by and credited to Mohd Ayan Khan.
 
 This code can be used by anyone for open source project.
-
+To use some of the code you need to import dependency of fathzer in your project build.
 
 
 This repository contains many numerical methods source code in java languages.
@@ -23,3 +23,5 @@ This repository contains many numerical methods source code in java languages.
 14. Simpson's 3/8 Rule
 15. Fitting of a straight line.
 17. Fitting of a parabola
+18. Runga-Kutta Order4th
+19. Euler method
